@@ -38,8 +38,8 @@ XXX
 ```
 
 
-- [RMOS - Restaurant Menu and Ordering System](https://github.com/SELab-ual/RMOS-Restaurant-Menu-and-Ordering-System)
-- [ALI -  Amazing Lunch Indicator](https://github.com/SELab-ual/ALI-Amazing-Lunch-Indicator-System) 
+- [RMOS - Restaurant Menu and Ordering System](https://github.com/SoftEng-UAL/RMOS-Restaurant-Menu-and-Ordering)
+- [ALI -  Amazing Lunch Indicator](https://github.com/SoftEng-UAL/ALI-Amazing-Lunch-Indicator) 
 - [Ecommerce - Online Bookstore]() 
 - [Camp - Summer Camp]()
 
