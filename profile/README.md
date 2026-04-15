@@ -39,7 +39,7 @@ XXX
 
 
 - [RMOS - Restaurant Menu and Ordering System](https://github.com/SoftEng-UAL/RMOS-Restaurant-Menu-and-Ordering)
-- [ALI -  Amazing Lunch Indicator](https://github.com/SoftEng-UAL/ALI-Amazing-Lunch-Indicator) 
+- [ALI -  Amazing Lunch Indicator](https://github.com/SoftEng-UAL/ALI-Amazing-Luch-Indicator) 
 - [Ecommerce - Online Bookstore]() 
 - [Camp - Summer Camp]()
 
