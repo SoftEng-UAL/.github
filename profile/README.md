@@ -43,4 +43,4 @@ XXX
 - [Ecommerce - Online Bookstore]() 
 - [Camp - Summer Camp]()
 
-### [Static automated analysis with SonarQube](https://sonarcloud.io/organizations/selab-ual/projects)
+### [Static automated analysis with SonarQube](https://sonarcloud.io/organizations/softeng-ual/projects)
