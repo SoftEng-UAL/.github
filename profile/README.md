@@ -44,3 +44,8 @@ XXX
 - [Camp - Summer Camp](https://github.com/SoftEng-UAL/Camp-Summer-Camp)
 
 ### [Static automated analysis with SonarQube](https://sonarcloud.io/organizations/softeng-ual/projects)
+
+The deployments have been tested using:
+  - Ubuntu 24.04.4 LTS -- Docker version 29.4.0, build 9d7ad9f
+  - Windows xxx -- Docker desktop ...
+    
